@@ -7,7 +7,7 @@
 <p align ='center'>There will be additional features added for other parameters to be edited such as speed for rotation, different texture choices etc.</p>
 
 <div align ='center'>
-<img src='https://im7.ezgif.com/tmp/ezgif-7-450ed467a286.gif'/>
+<img src='https://user-images.githubusercontent.com/79331471/118360997-f6587180-b54e-11eb-8a2a-7c54aaa4e00a.gif'/>
 </div>
 <br>
 <br>
